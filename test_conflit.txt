@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ines
+=======
+System.out.println("Hello world");
+>>>>>>> b0abab511938b12f1c719e78fb0bb7b148fc5972
